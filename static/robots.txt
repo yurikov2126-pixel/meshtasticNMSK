@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wiki.meshtastik-nmsk.ru/sitemap.xml
