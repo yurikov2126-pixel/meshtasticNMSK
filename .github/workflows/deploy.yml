@@ -11,7 +11,7 @@ on:
 
 env:
   REMOTE_APP_DIR: /opt/compose/external/wiki/app
-  REMOTE_WWW_DIR: /opt/compose/edge/nginx/www/wiki.Mesh-NMSK
+  REMOTE_WWW_DIR: /opt/compose/edge/nginx/www/wiki.meshtastik-nmsk.ru
 
 permissions:
   contents: read
