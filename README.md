@@ -1,6 +1,6 @@
 # meshtastik-nmsk Wiki
 
-Meshtastic-Новомосковск— публичная база знаний по Meshtastic и инфраструктуре MeshWorks.  
+Meshtastic-Новомосковск— публичная база знаний по Meshtastic и инфраструктуре Mesh-NMSK.  
 Репозиторий хранит весь исходный код Docusaurus‑сайта, который развёрнут на https://wiki.meshtastik-nmsk.ru
 
 

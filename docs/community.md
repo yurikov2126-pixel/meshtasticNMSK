@@ -1,6 +1,6 @@
 ---
 title: Русскоязычные сообщества
-description: "Русскоязычные сообщества Meshtastic и MeshWorks: ссылки на чаты, региональные группы и площадки для обмена опытом по настройке сетей."
+description: "Русскоязычные сообщества Meshtastic и Mesh-NMSK: ссылки на чаты, региональные группы и площадки для обмена опытом по настройке сетей."
 sidebar_label: Русскоязычные сообщества
 sidebar_position: 6
 breadcrumbs: ["База знаний Meshtastic", "Русскоязычные сообщества"]
@@ -10,7 +10,7 @@ breadcrumbs: ["База знаний Meshtastic", "Русскоязычные с
 
 
 :::tip
-**Канал нашего сообщества:** [https://t.me/meshtastic_nmsk](https://t.me/meshwrks)
+**Канал нашего сообщества:** [https://t.me/meshtastic_nmsk](https://t.me/meshtastic_nmsk)
 
 **Крупные русскоязычные сообщества Meshtastic:**
 - [t.me/meshtastic_russia](https://t.me/meshtastic_russia) — основной канал по Meshtastic в России
