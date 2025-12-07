@@ -5,7 +5,7 @@ Meshtastic-Новомосковск— публичная база знаний 
 
 
 ## Как контрибьютить
-Полный процесс описан в [CONTRIBUTING](CONTRIBUTING.mdx) и на http://wiki.meshtastik-nmsk.ru/wiki/how-to-edit.
+Полный процесс описан в [CONTRIBUTING](CONTRIBUTING.mdx) и на https://wiki.meshtastik-nmsk.ru/wiki/how-to-edit.
 
 ## Быстрый старт
 Требования: Node.js ≥ 20, npm 10.
