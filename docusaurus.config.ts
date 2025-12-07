@@ -56,9 +56,9 @@ const config: Config = {
         '@type': 'SiteNavigationElement',
         name: ['База знаний', 'Контрибьютинг', 'О нас'],
         url: [
-          'https://wiki.meshtastik-nmsk.ru/',
-          'https://wiki.meshtastik-nmsk.ru/wiki/how-to-edit',
-          'https://wiki.meshtastik-nmsk.ru/about',
+          'http://wiki.meshtastik-nmsk.ru/',
+          'http://wiki.meshtastik-nmsk.ru/wiki/how-to-edit',
+          'http://wiki.meshtastik-nmsk.ru/about',
         ],
       }),
     },
