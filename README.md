@@ -27,6 +27,6 @@ npm start        # dev-сервер на http://localhost:3000/
 | `npm run check`    | `lint` + `build`, используется в CI    |
 | `npm run clear`    | удаляет кеш Docusaurus (`.docusaurus/`) |
 
-## CI и деплой
+## CI и деплойy
 - `.github/workflows/ci.yml` гоняет `npm run check` на каждом Pull Request и push в `main`.
 - `.github/workflows/deploy.yml` после каждого push в `main` (и при ручном запуске `workflow_dispatch`) собирает проект на runner’е и синхронизирует `/opt/compose/external/wiki/app`.
