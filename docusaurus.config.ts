@@ -129,7 +129,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: '/',
-          editUrl: 'https://github.com/yurikov2126-pixel/meshtastic_NMSK/edit/main/',
+          editUrl: 'https://github.com/yurikov2126-pixel/meshtasticNMSK/edit/main/',
           admonitions: {
             keywords: ['favorite'],
             extendDefaults: true,
@@ -184,7 +184,7 @@ const config: Config = {
         routeBasePath: '/',
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
-        editUrl: 'https://github.com/yurikov2126-pixel/meshtastic_NMSK/edit/main/',
+        editUrl: 'https://github.com/yurikov2126-pixel/meshtasticNMSK/edit/main/',
       },
     ],
     [
