@@ -267,12 +267,6 @@ const config: Config = {
         {
           html: [
             "<div class='footer__links-row'>",
-            "<a href='https://Mesh-NMSK.ru/' target='_blank' rel='noreferrer noopener'>Mesh-NMSK.ru</a>",
-            "<a href='https://www.youtube.com/@meshwrks' target='_blank' rel='noreferrer noopener'>YouTube</a>",
-            "<a href='https://boosty.to/Mesh-NMSK' target='_blank' rel='noreferrer noopener'>Boosty</a>",
-            "<a href='https://t.me/meshwrks' target='_blank' rel='noreferrer noopener'>Telegram</a>",
-            "<a href='https://status.Mesh-NMSK.ru/status/Mesh-NMSK' target='_blank' rel='noreferrer noopener'>Status Page</a>",
-            "<a href='https://malla.Mesh-NMSK.ru/' target='_blank' rel='noreferrer noopener'>Malla</a>",
             '</div>',
             "<div class='footer__trademark'>Meshtastic® is a registered trademark of Meshtastic LLC.</div>",
           ].join(''),
