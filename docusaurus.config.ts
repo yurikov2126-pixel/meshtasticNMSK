@@ -223,7 +223,7 @@ const config: Config = {
       {
         name: 'keywords',
         content:
-          'meshtastic, Meshtastic-NMSK, lora mesh, loRa сеть, автономная связь, wiki meshtastic, инструкции lora',
+          'meshtastic, Meshtastic-NMSK, Новомосковск, Донской, Узловая, lora mesh, loRa сеть, автономная связь, wiki meshtastic, инструкции lora',
       },
     ],
     colorMode: {
