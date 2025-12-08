@@ -2,7 +2,7 @@
 title: Игры для Meshtastic
 description: "Как играть в игры онлайн."
 sidebar_label: Игры для Meshtastic
-sidebar_position: 1
+sidebar_position: 7
 breadcrumbs: ["База знаний Meshtastic", "Настройка ноды", "Проверка работы"]
 ---
 

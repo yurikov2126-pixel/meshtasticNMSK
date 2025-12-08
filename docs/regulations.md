@@ -2,7 +2,7 @@
 title: Законодательство
 description: "Раздел о законодательных требованиях и ограничениях по использованию радиочастот и оборудования Meshtastic в России."
 sidebar_label: Законодательство
-sidebar_position: 7
+sidebar_position: 8
 breadcrumbs: ["База знаний Meshtastic", "Законодательство"]
 ---
 :::tip
