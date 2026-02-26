@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="32618993-6ee3-46ad-b7ef-2c7e3dc7ef33" name="meshtastic" url="http://vh342.timeweb.ru">
+        <fileTransfer rootFolder="/wiki.meshtastik-nmsk.ru/public_html" host="vh342.timeweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
