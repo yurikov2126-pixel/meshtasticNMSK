@@ -110,8 +110,8 @@ const config: Config = {
       onload: "this.onload=null;this.rel='stylesheet'",
     },
   ],
-  organizationName: 'Mesh-NMSK',
-  projectName: 'wiki',
+  organizationName: 'yurikov2126-pixel',
+  projectName: 'meshtasticNMSK',
   onBrokenLinks: 'throw',
   markdown: {
     hooks: {
