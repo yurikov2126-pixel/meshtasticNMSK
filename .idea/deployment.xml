@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="meshtastic" remoteFilesAllowedToDisappearOnAutoupload="false" />
+  <component name="PublishConfigData" serverName="meshtastic" uploadOnCheckin="32618993-6ee3-46ad-b7ef-2c7e3dc7ef33" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <option name="myUploadOnCheckinName" value="meshtastic" />
+  </component>
 </project>
